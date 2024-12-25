@@ -1,0 +1,78 @@
+% !TeX encoding = UTF-8
+% 主文件--main.tex
+\documentclass[
+	type = master,		% bachelor | master | doctor
+	%submit,
+	%openany,			% openany | openright(default)
+	fontset = fandol,	% fandol | windows (normal)
+]{buctthesis}
+
+% 在这个文件里载入其他对写作有帮助的宏包，或自定义命令等
+\usepackage{mycfg}
+
+\buctsetup{
+	% 论文的中文标题
+	ChineseTitle		= {基于 \LaTeX\ 的北京化工大学本硕博毕业论文写作模板},
+	% 封面上的标题。总字数不要超过 36 个汉字长度。
+	% 硕博：封面的标题有两行，每一行控制在 18 个汉字长度以内。
+	% 封面标题首行
+	ChineseTitleLineA	= {基于 \LaTeX\ 的北京化工大学本硕博},
+	% 封面标题次行
+	ChineseTitleLineB	= {毕业论文写作模板},
+	% 论文的英文标题，一般需要大写
+	EnglishTitle		= {BUCTthesis: A \LaTeX\ WRITING TEMPLATE FOR BUCT},
+	% 作者的中文姓名
+	author				= {张三},
+	% 学号
+	studentid			= {2018020999},
+	% 专业名称
+	major				= {高分子材料与工程},
+	% 导师的姓名与职称
+	supervisor			= {李四教授},
+	% 中文、英文关键词，各关键词间以西文逗号“,”分隔
+	ChineseKeywords		= {论文,\LaTeX{},模板},
+	EnglishKeywords		= {thesis,\LaTeX{},template},
+	% 日期，请注意：务必使用形如“YYYY-MM-DD”的格式
+	date				= {2023-05-20},
+}
+
+\begin{document}
+	% 生成封面，请确保字体文件的存在
+	\makecover
+	
+	% 从此以大写罗马数字编页码
+	\frontmatter
+	
+	% 诚信声明与版权页、中英文摘要
+	\include{chapter/frontmatter}
+	
+	% 生成中文目录、英文目录
+	\tableofcontents
+	\tableofcontentsEN
+	
+	% 符号说明表
+	\include{chapter/denotation}
+	
+	% 从此以阿拉伯数字编页码
+	\mainmatter
+	
+	% 正文各章节
+	\include{chapter/chapter1}
+	\include{chapter/chapter2}
+	\include{chapter/chapter3}
+	
+	% 参考文献。
+	\bibliographystyle{gbt7714-numerical}
+	\bibliography{thesisbib.bib}
+	
+	% 附录
+	\appendix
+	\include{chapter/app1}
+	
+	% 致谢
+	\include{chapter/acknowledgement}
+	
+	% 研究成果及发表的学术论文、作者和导师简介
+	\include{chapter/resume}
+	
+\end{document}

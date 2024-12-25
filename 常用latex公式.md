@@ -29,7 +29,7 @@ $\min x, \max x$
 $\lim u, \liminf v, \limsup v$
 
 极限
-$\lim_{x \to \infin} \frac{1}{n(n+1)}$
+$\lim_{x \to \infty} \frac{1}{n(n+1)}$
 
 微分及导数
 $dt, \mathrm{d}t, \partial t, \nabla\psi$
@@ -41,7 +41,7 @@ $dy/dx, \mathrm{d}y/\mathrm{d}x, \frac{dy}{dx}$/
 $\prime, \backprime, f^\prime, f', f'', f^{(3)}, \dot y, \ddot y$
 
 类字母
-$\infin, \eth, \mho$
+$\infty, \eth, \mho$
 
 模运算
 $s_k \equiv 0 \pmod{m}, a \bmod b,$+
@@ -127,7 +127,7 @@ $\rightarrow, \leftarrow, \Rightarrow, \Leftarrow, \Rrightarrow, \Lleftarrow, \L
 
 ## 组合示例
 极限
-$\lim_{n \to \infin}x_n$
+$\lim_{n \to \infty}x_n$
 
 积分
 $\int_{-N}^{N} e^x\,{\rm d}x$

@@ -1,8 +1,8 @@
 # Fdb version 4
-["pdflatex"] 1732323441.89714 "d:/论文/心理作业/work.tex" "work.pdf" "work" 1732323443.19029 0
-  "c:/Windows/Fonts/msyh.ttc" 1731494034 19704352 1e10e74402e59d54499af795caf0b135 ""
-  "c:/Windows/Fonts/simhei.ttf" 1651842600 9753388 6abc0fcfbaa40600f9cecca3afeb3aa7 ""
-  "c:/Windows/Fonts/simsun.ttc" 1731494034 18070492 992f2bdc407dde6953c5ed83ceac9a91 ""
+["pdflatex"] 1735310679.61301 "d:/学东西的/论文/心理作业/work.tex" "work.pdf" "work" 1735310682.1555 0
+  "c:/Windows/Fonts/msyh.ttc" 1735272451 19704352 1e10e74402e59d54499af795caf0b135 ""
+  "c:/Windows/Fonts/simhei.ttf" 1711630440 9755440 983b60188a8e5a7c29c06c674f428b3d ""
+  "c:/Windows/Fonts/simsun.ttc" 1735272451 18070492 992f2bdc407dde6953c5ed83ceac9a91 ""
   "c:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1728912324 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "c:/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1728912669 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2024/texmf-dist/fonts/sfd/ttf2pk/UGBK.sfd" 1728913856 182544 bcd31d5d273400b38612a969fcab55f9 ""
@@ -186,10 +186,10 @@
   "c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1728914044 5513072 9c1fc38a7d970efa00aeae6b397bfedd ""
   "c:/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1728914167 8221513 d90416853e13271453596ca96d503357 ""
   "c:/texlive/2024/texmf.cnf" 1728914028 713 e69b156964470283e0530f5060668171 ""
-  "d:/论文/心理作业/work.tex" 1732323440 5365 3b654871d90af81d331734f3c18d3dbb ""
-  "work.aux" 1732323442 877 42a5cf5f275f16f5bdc06853a589781b "pdflatex"
+  "d:/学东西的/论文/心理作业/work.tex" 1732323440 5365 3b654871d90af81d331734f3c18d3dbb ""
+  "work.aux" 1735310681 877 42a5cf5f275f16f5bdc06853a589781b "pdflatex"
   "work.tex" 1732323440 5365 3b654871d90af81d331734f3c18d3dbb ""
-  "work.toc" 1732323442 681 5e46514b03f21249421ed448967c03d0 "pdflatex"
+  "work.toc" 1735310681 681 5e46514b03f21249421ed448967c03d0 "pdflatex"
   (generated)
   "work.aux"
   "work.log"

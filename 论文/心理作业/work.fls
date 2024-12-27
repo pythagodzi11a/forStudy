@@ -1,8 +1,8 @@
-PWD d:/论文/心理作业
+PWD d:/学东西的/论文/心理作业
 INPUT c:/texlive/2024/texmf.cnf
 INPUT c:/texlive/2024/texmf-dist/web2c/texmf.cnf
 INPUT c:/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT d:/论文/心理作业/work.tex
+INPUT d:/学东西的/论文/心理作业/work.tex
 OUTPUT work.log
 INPUT c:/texlive/2024/texmf-dist/tex/latex/ctex/ctexart.cls
 INPUT c:/texlive/2024/texmf-dist/tex/latex/ctex/ctexart.cls

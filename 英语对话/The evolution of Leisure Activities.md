@@ -1,7 +1,7 @@
 Leisure activities in China have undergone significant changes over time.
 >中国的休闲活动随着时间的推移发生了巨大变化。
 
-In ancient times, people enjoyed activities like playing chess and practicing calligraphy， which ***not only*** provided relaxtion ***but also*** helped develop patience and wisdom.
+In ancient times, people enjoyed activities like playing chess and practicing calligraphy， which ***not only*** provided relaxation ***but also*** helped develop patience and wisdom.
 >这些活动不仅提供放松，还有助于培养耐心和智慧。
 
 **However, with the passage of time**, during the modern era, the introduction of Wetern culture brought new trends.
@@ -18,3 +18,6 @@ People began to show a preference for activities like playing video games and su
 
 **In the following years**, outdoor activities and traveling have gained popularity as people increasingly seek to embrace nature adn adopt healthier lifestyle.
 >接下来的几年，由于人们日益追求拥抱自然并采用更健康的生活方式，户外活动和旅行变得越来越受欢迎。
+
+Thus, the evolution of leisure activities in China continues to mirror societal shifts and technological strides.
+>因此，中国的休闲活动演变持续映射着社会变迁与科技进步。

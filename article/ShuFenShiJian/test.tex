@@ -1,0 +1,25 @@
+\documentclass[12pt]{ctexart}
+\usepackage{geometry}
+\usepackage{enumitem}
+
+% 页面布局设置
+\geometry{
+  a4paper,
+  left=2.5cm,
+  right=2.5cm,
+  top=2.5cm,
+  bottom=2.5cm
+}
+
+% 定义文献著录环境
+\newlist{bibliography}{itemize}{1}
+\setlist[bibliography]{label=\arabic*., leftmargin=*, align=left}
+
+\begin{document}
+
+\begin{bibliography}
+  \item 中文篇名：《论文标题》。作者. 发表期刊，发表年，卷(期)，所在页码。
+  \item 英文篇名："Paper Title". Author. Journal Name, Year, Volume(Issue), Page numbers.
+\end{bibliography}
+
+\end{document}

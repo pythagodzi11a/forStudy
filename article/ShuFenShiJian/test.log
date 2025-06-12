@@ -1,0 +1,1052 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.14)  12 JUN 2025 13:11
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**d:/forStudy/article/ShuFenShiJian/test.tex
+(d:/forStudy/article/ShuFenShiJian/test.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-02-20>
+(c:/texlive/2024/texmf-dist/tex/latex/ctex/ctexart.cls (c:/texlive/2024/texmf-dist/tex/latex/ctex/config/ctexbackend.cfg
+File: ctexbackend.cfg 2022/07/14 v2.5.10 Backend configuration file (CTEX)
+) (c:/texlive/2024/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2024-02-20 L3 programming layer (loader) 
+ (c:/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-02-20 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count188
+\l__pdf_internal_box=\box51
+))
+Document Class: ctexart 2022/07/14 v2.5.10 Chinese adapter for class article (CTEX)
+(c:/texlive/2024/texmf-dist/tex/latex/ctex/ctexhook.sty
+Package: ctexhook 2022/07/14 v2.5.10 Document and package hooks (CTEX)
+) (c:/texlive/2024/texmf-dist/tex/latex/ctex/ctexpatch.sty
+Package: ctexpatch 2022/07/14 v2.5.10 Patching commands (CTEX)
+) (c:/texlive/2024/texmf-dist/tex/latex/base/fix-cm.sty
+Package: fix-cm 2020/11/24 v1.1t fixes to LaTeX
+ (c:/texlive/2024/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
+))
+\l__ctex_tmp_int=\count189
+\l__ctex_tmp_box=\box52
+\l__ctex_tmp_dim=\dimen140
+\g__ctex_section_depth_int=\count190
+\g__ctex_font_size_int=\count191
+ (c:/texlive/2024/texmf-dist/tex/latex/ctex/config/ctexopts.cfg
+File: ctexopts.cfg 2022/07/14 v2.5.10 Option configuration file (CTEX)
+)
+
+Class ctexart Warning: UTF8 will be used as the default encoding.
+
+(c:/texlive/2024/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(c:/texlive/2024/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count192
+\c@section=\count193
+\c@subsection=\count194
+\c@subsubsection=\count195
+\c@paragraph=\count196
+\c@subparagraph=\count197
+\c@figure=\count198
+\c@table=\count199
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen141
+) (c:/texlive/2024/texmf-dist/tex/latex/ctex/engine/ctex-engine-pdftex.def
+File: ctex-engine-pdftex.def 2022/07/14 v2.5.10 (pdf)LaTeX adapter (CTEX)
+ (c:/texlive/2024/texmf-dist/tex/latex/cjk/texinput/CJKutf8.sty
+Package: CJKutf8 2021/10/16 4.8.5
+ (c:/texlive/2024/texmf-dist/tex/generic/iftex/ifpdf.sty
+Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
+ (c:/texlive/2024/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)) (c:/texlive/2024/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+) (c:/texlive/2024/texmf-dist/tex/latex/cjk/texinput/CJK.sty
+Package: CJK 2021/10/16 4.8.5
+ (c:/texlive/2024/texmf-dist/tex/latex/cjk/texinput/mule/MULEenc.sty
+Package: MULEenc 2021/10/16 4.8.5
+) (c:/texlive/2024/texmf-dist/tex/latex/cjk/texinput/CJK.enc
+File: CJK.enc 2021/10/16 4.8.5
+Now handling font encoding C00 ...
+... no UTF-8 mapping file for font encoding C00
+Now handling font encoding C05 ...
+... no UTF-8 mapping file for font encoding C05
+Now handling font encoding C09 ...
+... no UTF-8 mapping file for font encoding C09
+Now handling font encoding C10 ...
+... no UTF-8 mapping file for font encoding C10
+Now handling font encoding C20 ...
+... no UTF-8 mapping file for font encoding C20
+Now handling font encoding C19 ...
+... no UTF-8 mapping file for font encoding C19
+Now handling font encoding C40 ...
+... no UTF-8 mapping file for font encoding C40
+Now handling font encoding C42 ...
+... no UTF-8 mapping file for font encoding C42
+Now handling font encoding C43 ...
+... no UTF-8 mapping file for font encoding C43
+Now handling font encoding C50 ...
+... no UTF-8 mapping file for font encoding C50
+Now handling font encoding C52 ...
+... no UTF-8 mapping file for font encoding C52
+Now handling font encoding C49 ...
+... no UTF-8 mapping file for font encoding C49
+Now handling font encoding C60 ...
+... no UTF-8 mapping file for font encoding C60
+Now handling font encoding C61 ...
+... no UTF-8 mapping file for font encoding C61
+Now handling font encoding C63 ...
+... no UTF-8 mapping file for font encoding C63
+Now handling font encoding C64 ...
+... no UTF-8 mapping file for font encoding C64
+Now handling font encoding C65 ...
+... no UTF-8 mapping file for font encoding C65
+Now handling font encoding C70 ...
+... no UTF-8 mapping file for font encoding C70
+Now handling font encoding C31 ...
+... no UTF-8 mapping file for font encoding C31
+Now handling font encoding C32 ...
+... no UTF-8 mapping file for font encoding C32
+Now handling font encoding C33 ...
+... no UTF-8 mapping file for font encoding C33
+Now handling font encoding C34 ...
+... no UTF-8 mapping file for font encoding C34
+Now handling font encoding C35 ...
+... no UTF-8 mapping file for font encoding C35
+Now handling font encoding C36 ...
+... no UTF-8 mapping file for font encoding C36
+Now handling font encoding C37 ...
+... no UTF-8 mapping file for font encoding C37
+Now handling font encoding C80 ...
+... no UTF-8 mapping file for font encoding C80
+Now handling font encoding C81 ...
+... no UTF-8 mapping file for font encoding C81
+Now handling font encoding C01 ...
+... no UTF-8 mapping file for font encoding C01
+Now handling font encoding C11 ...
+... no UTF-8 mapping file for font encoding C11
+Now handling font encoding C21 ...
+... no UTF-8 mapping file for font encoding C21
+Now handling font encoding C41 ...
+... no UTF-8 mapping file for font encoding C41
+Now handling font encoding C62 ...
+... no UTF-8 mapping file for font encoding C62
+)
+\CJK@indent=\box53
+) (c:/texlive/2024/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)) (c:/texlive/2024/texmf-dist/tex/latex/cjkpunct/CJKpunct.sty
+Package: CJKpunct 2016/05/14 4.8.4
+\CJKpunct@cnta=\count266
+\CJKpunct@cntb=\count267
+\CJKpunct@cntc=\count268
+\CJKpunct@cntd=\count269
+\CJKpunct@cnte=\count270
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2026 (decimal 8230)
+ (c:/texlive/2024/texmf-dist/tex/latex/cjkpunct/CJKpunct.spa)) (c:/texlive/2024/texmf-dist/tex/latex/cjk/texinput/CJKspace.sty
+Package: CJKspace 2021/10/16 3.8.0
+) (c:/texlive/2024/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.bdg
+File: UTF8.bdg 2021/10/16 4.8.5
+) (c:/texlive/2024/texmf-dist/tex/latex/ctex/ctexspa.def
+File: ctexspa.def 2022/07/14 v2.5.10 Space info for CJKpunct (CTEX)
+)
+\ccwd=\dimen142
+\l__ctex_ccglue_skip=\skip50
+)
+\l__ctex_ziju_dim=\dimen143
+ (c:/texlive/2024/texmf-dist/tex/latex/zhnumber/zhnumber.sty
+Package: zhnumber 2022/07/14 v3.0 Typesetting numbers with Chinese glyphs
+\l__zhnum_scale_int=\count271
+\l__zhnum_tmp_int=\count272
+ (c:/texlive/2024/texmf-dist/tex/latex/zhnumber/zhnumber-utf8.cfg
+File: zhnumber-utf8.cfg 2022/07/14 v3.0 Chinese numerals with UTF8 encoding
+))
+\l__ctex_heading_skip=\skip51
+ (c:/texlive/2024/texmf-dist/tex/latex/ctex/scheme/ctex-scheme-chinese-article.def
+File: ctex-scheme-chinese-article.def 2022/07/14 v2.5.10 Chinese scheme for article (CTEX)
+ (c:/texlive/2024/texmf-dist/tex/latex/ctex/config/ctex-name-utf8.cfg
+File: ctex-name-utf8.cfg 2022/07/14 v2.5.10 Caption with encoding UTF-8 (CTEX)
+)) (c:/texlive/2024/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-windows.def
+File: ctex-fontset-windows.def 2022/07/14 v2.5.10 Windows fonts definition (CTEX)
+)) (c:/texlive/2024/texmf-dist/tex/latex/ctex/config/ctex.cfg
+File: ctex.cfg 2022/07/14 v2.5.10 Configuration file (CTEX)
+) (c:/texlive/2024/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (c:/texlive/2024/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+) (c:/texlive/2024/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count273
+\Gm@cntv=\count274
+\c@Gm@tempcnt=\count275
+\Gm@bindingoffset=\dimen144
+\Gm@wd@mp=\dimen145
+\Gm@odd@mp=\dimen146
+\Gm@even@mp=\dimen147
+\Gm@layoutwidth=\dimen148
+\Gm@layoutheight=\dimen149
+\Gm@layouthoffset=\dimen150
+\Gm@layoutvoffset=\dimen151
+\Gm@dimlist=\toks20
+) (c:/texlive/2024/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip52
+\enit@outerparindent=\dimen152
+\enit@toks=\toks21
+\enit@inbox=\box54
+\enit@count@id=\count276
+\enitdp@description=\count277
+)
+\enitdp@bibliography=\count278
+
+
+d:/forStudy/article/ShuFenShiJian/test.tex:15: LaTeX Error: Command \bibliography already defined.
+               Or name \end... illegal, see p.192 of the manual.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 \newlist{bibliography}{itemize}{1}
+                                       
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+(c:/texlive/2024/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc
+File: UTF8.enc 2021/10/16 4.8.5
+) (c:/texlive/2024/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr
+File: UTF8.chr 2021/10/16 4.8.5
+) (./test.aux)
+\openout1 = `test.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for C00/song/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for C05/song/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for C09/song/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for C10/song/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for C20/song/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for C19/song/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for C40/song/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for C42/song/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for C43/song/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for C50/song/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for C52/song/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for C49/song/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for C60/mj/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for C61/mj/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for C63/mj/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for C64/mj/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for C65/mj/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for C70/song/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for C31/song/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for C32/song/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for C33/song/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for C34/song/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for C35/song/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for C36/song/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for C37/song/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for C80/song/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for C81/song/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for C01/song/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for C11/song/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for C21/song/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for C41/song/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for C62/song/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(71.13188pt, 455.24411pt, 71.13188pt)
+* v-part:(T,H,B)=(71.13188pt, 702.78308pt, 71.13188pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=455.24411pt
+* \textheight=702.78308pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-38.1381pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21: Use of \@item doesn't match its definition.
+\zap@space #1 #2->#1\ifx 
+                         #2\@empty \else \expandafter \zap@space \fi #2
+l.21   \item
+             中文篇名：《论文标题》。作者. 发表期刊，发�...
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21: Extra \fi.
+\bibliography ...ata {\zap@space #1 \@empty }}\fi 
+                                                  \@input@ {\jobname .bbl}
+l.21   \item
+             中文篇名：《论文标题》。作者. 发表期刊，发�...
+I'm ignoring this; it doesn't match any \if.
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21: Extra \fi.
+\bibliography ...ata {\zap@space #1 \@empty }}\fi 
+                                                  \@input@ {\jobname .bbl}
+l.21   \item
+             中文篇名：《论文标题》。作者. 发表期刊，发�...
+I'm ignoring this; it doesn't match any \if.
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21: Extra \fi.
+\bibliography ...ata {\zap@space #1 \@empty }}\fi 
+                                                  \@input@ {\jobname .bbl}
+l.21   \item
+             中文篇名：《论文标题》。作者. 发表期刊，发�...
+I'm ignoring this; it doesn't match any \if.
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21: Extra \fi.
+\bibliography ...ata {\zap@space #1 \@empty }}\fi 
+                                                  \@input@ {\jobname .bbl}
+l.21   \item
+             中文篇名：《论文标题》。作者. 发表期刊，发�...
+I'm ignoring this; it doesn't match any \if.
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21: Extra \fi.
+\bibliography ...ata {\zap@space #1 \@empty }}\fi 
+                                                  \@input@ {\jobname .bbl}
+l.21   \item
+             中文篇名：《论文标题》。作者. 发表期刊，发�...
+I'm ignoring this; it doesn't match any \if.
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21: Extra \fi.
+\bibliography ...ata {\zap@space #1 \@empty }}\fi 
+                                                  \@input@ {\jobname .bbl}
+l.21   \item
+             中文篇名：《论文标题》。作者. 发表期刊，发�...
+I'm ignoring this; it doesn't match any \if.
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21: Extra \fi.
+\bibliography ...ata {\zap@space #1 \@empty }}\fi 
+                                                  \@input@ {\jobname .bbl}
+l.21   \item
+             中文篇名：《论文标题》。作者. 发表期刊，发�...
+I'm ignoring this; it doesn't match any \if.
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21: Extra \fi.
+\bibliography ...ata {\zap@space #1 \@empty }}\fi 
+                                                  \@input@ {\jobname .bbl}
+l.21   \item
+             中文篇名：《论文标题》。作者. 发表期刊，发�...
+I'm ignoring this; it doesn't match any \if.
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21: Extra \fi.
+\bibliography ...ata {\zap@space #1 \@empty }}\fi 
+                                                  \@input@ {\jobname .bbl}
+l.21   \item
+             中文篇名：《论文标题》。作者. 发表期刊，发�...
+I'm ignoring this; it doesn't match any \if.
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21: Extra \fi.
+\bibliography ...ata {\zap@space #1 \@empty }}\fi 
+                                                  \@input@ {\jobname .bbl}
+l.21   \item
+             中文篇名：《论文标题》。作者. 发表期刊，发�...
+I'm ignoring this; it doesn't match any \if.
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21: Extra \fi.
+\bibliography ...ata {\zap@space #1 \@empty }}\fi 
+                                                  \@input@ {\jobname .bbl}
+l.21   \item
+             中文篇名：《论文标题》。作者. 发表期刊，发�...
+I'm ignoring this; it doesn't match any \if.
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21: Extra \fi.
+\bibliography ...ata {\zap@space #1 \@empty }}\fi 
+                                                  \@input@ {\jobname .bbl}
+l.21   \item
+             中文篇名：《论文标题》。作者. 发表期刊，发�...
+I'm ignoring this; it doesn't match any \if.
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21: Extra \fi.
+\bibliography ...ata {\zap@space #1 \@empty }}\fi 
+                                                  \@input@ {\jobname .bbl}
+l.21   \item
+             中文篇名：《论文标题》。作者. 发表期刊，发�...
+I'm ignoring this; it doesn't match any \if.
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21: Extra \fi.
+\bibliography ...ata {\zap@space #1 \@empty }}\fi 
+                                                  \@input@ {\jobname .bbl}
+l.21   \item
+             中文篇名：《论文标题》。作者. 发表期刊，发�...
+I'm ignoring this; it doesn't match any \if.
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21: Extra \fi.
+\bibliography ...ata {\zap@space #1 \@empty }}\fi 
+                                                  \@input@ {\jobname .bbl}
+l.21   \item
+             中文篇名：《论文标题》。作者. 发表期刊，发�...
+I'm ignoring this; it doesn't match any \if.
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21: Extra \fi.
+\bibliography ...ata {\zap@space #1 \@empty }}\fi 
+                                                  \@input@ {\jobname .bbl}
+l.21   \item
+             中文篇名：《论文标题》。作者. 发表期刊，发�...
+I'm ignoring this; it doesn't match any \if.
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21: Extra \fi.
+\bibliography ...ata {\zap@space #1 \@empty }}\fi 
+                                                  \@input@ {\jobname .bbl}
+l.21   \item
+             中文篇名：《论文标题》。作者. 发表期刊，发�...
+I'm ignoring this; it doesn't match any \if.
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21: Extra \fi.
+\bibliography ...ata {\zap@space #1 \@empty }}\fi 
+                                                  \@input@ {\jobname .bbl}
+l.21   \item
+             中文篇名：《论文标题》。作者. 发表期刊，发�...
+I'm ignoring this; it doesn't match any \if.
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21: Extra \fi.
+\bibliography ...ata {\zap@space #1 \@empty }}\fi 
+                                                  \@input@ {\jobname .bbl}
+l.21   \item
+             中文篇名：《论文标题》。作者. 发表期刊，发�...
+I'm ignoring this; it doesn't match any \if.
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21: Extra \fi.
+\bibliography ...ata {\zap@space #1 \@empty }}\fi 
+                                                  \@input@ {\jobname .bbl}
+l.21   \item
+             中文篇名：《论文标题》。作者. 发表期刊，发�...
+I'm ignoring this; it doesn't match any \if.
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21: Extra \fi.
+\bibliography ...ata {\zap@space #1 \@empty }}\fi 
+                                                  \@input@ {\jobname .bbl}
+l.21   \item
+             中文篇名：《论文标题》。作者. 发表期刊，发�...
+I'm ignoring this; it doesn't match any \if.
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21: Extra \fi.
+\bibliography ...ata {\zap@space #1 \@empty }}\fi 
+                                                  \@input@ {\jobname .bbl}
+l.21   \item
+             中文篇名：《论文标题》。作者. 发表期刊，发�...
+I'm ignoring this; it doesn't match any \if.
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21: Extra \fi.
+\bibliography ...ata {\zap@space #1 \@empty }}\fi 
+                                                  \@input@ {\jobname .bbl}
+l.21   \item
+             中文篇名：《论文标题》。作者. 发表期刊，发�...
+I'm ignoring this; it doesn't match any \if.
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21: Extra \fi.
+\bibliography ...ata {\zap@space #1 \@empty }}\fi 
+                                                  \@input@ {\jobname .bbl}
+l.21   \item
+             中文篇名：《论文标题》。作者. 发表期刊，发�...
+I'm ignoring this; it doesn't match any \if.
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21: Extra \fi.
+\bibliography ...ata {\zap@space #1 \@empty }}\fi 
+                                                  \@input@ {\jobname .bbl}
+l.21   \item
+             中文篇名：《论文标题》。作者. 发表期刊，发�...
+I'm ignoring this; it doesn't match any \if.
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21: Extra \fi.
+\bibliography ...ata {\zap@space #1 \@empty }}\fi 
+                                                  \@input@ {\jobname .bbl}
+l.21   \item
+             中文篇名：《论文标题》。作者. 发表期刊，发�...
+I'm ignoring this; it doesn't match any \if.
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21: Extra \fi.
+\bibliography ...ata {\zap@space #1 \@empty }}\fi 
+                                                  \@input@ {\jobname .bbl}
+l.21   \item
+             中文篇名：《论文标题》。作者. 发表期刊，发�...
+I'm ignoring this; it doesn't match any \if.
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21: Extra \fi.
+\bibliography ...ata {\zap@space #1 \@empty }}\fi 
+                                                  \@input@ {\jobname .bbl}
+l.21   \item
+             中文篇名：《论文标题》。作者. 发表期刊，发�...
+I'm ignoring this; it doesn't match any \if.
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21: Extra \fi.
+\bibliography ...ata {\zap@space #1 \@empty }}\fi 
+                                                  \@input@ {\jobname .bbl}
+l.21   \item
+             中文篇名：《论文标题》。作者. 发表期刊，发�...
+I'm ignoring this; it doesn't match any \if.
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21: Extra \fi.
+\bibliography ...ata {\zap@space #1 \@empty }}\fi 
+                                                  \@input@ {\jobname .bbl}
+l.21   \item
+             中文篇名：《论文标题》。作者. 发表期刊，发�...
+I'm ignoring this; it doesn't match any \if.
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21: Extra \fi.
+\bibliography ...ata {\zap@space #1 \@empty }}\fi 
+                                                  \@input@ {\jobname .bbl}
+l.21   \item
+             中文篇名：《论文标题》。作者. 发表期刊，发�...
+I'm ignoring this; it doesn't match any \if.
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21: Extra \fi.
+\bibliography ...ata {\zap@space #1 \@empty }}\fi 
+                                                  \@input@ {\jobname .bbl}
+l.21   \item
+             中文篇名：《论文标题》。作者. 发表期刊，发�...
+I'm ignoring this; it doesn't match any \if.
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21: Extra \fi.
+\bibliography ...ata {\zap@space #1 \@empty }}\fi 
+                                                  \@input@ {\jobname .bbl}
+l.21   \item
+             中文篇名：《论文标题》。作者. 发表期刊，发�...
+I'm ignoring this; it doesn't match any \if.
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21: Extra \fi.
+\bibliography ...ata {\zap@space #1 \@empty }}\fi 
+                                                  \@input@ {\jobname .bbl}
+l.21   \item
+             中文篇名：《论文标题》。作者. 发表期刊，发�...
+I'm ignoring this; it doesn't match any \if.
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21: Extra \fi.
+\bibliography ...ata {\zap@space #1 \@empty }}\fi 
+                                                  \@input@ {\jobname .bbl}
+l.21   \item
+             中文篇名：《论文标题》。作者. 发表期刊，发�...
+I'm ignoring this; it doesn't match any \if.
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21: Extra \fi.
+\bibliography ...ata {\zap@space #1 \@empty }}\fi 
+                                                  \@input@ {\jobname .bbl}
+l.21   \item
+             中文篇名：《论文标题》。作者. 发表期刊，发�...
+I'm ignoring this; it doesn't match any \if.
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21: Extra \fi.
+\bibliography ...ata {\zap@space #1 \@empty }}\fi 
+                                                  \@input@ {\jobname .bbl}
+l.21   \item
+             中文篇名：《论文标题》。作者. 发表期刊，发�...
+I'm ignoring this; it doesn't match any \if.
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21: Extra \fi.
+\bibliography ...ata {\zap@space #1 \@empty }}\fi 
+                                                  \@input@ {\jobname .bbl}
+l.21   \item
+             中文篇名：《论文标题》。作者. 发表期刊，发�...
+I'm ignoring this; it doesn't match any \if.
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21: Extra \fi.
+\bibliography ...ata {\zap@space #1 \@empty }}\fi 
+                                                  \@input@ {\jobname .bbl}
+l.21   \item
+             中文篇名：《论文标题》。作者. 发表期刊，发�...
+I'm ignoring this; it doesn't match any \if.
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21: Extra \fi.
+\bibliography ...ata {\zap@space #1 \@empty }}\fi 
+                                                  \@input@ {\jobname .bbl}
+l.21   \item
+             中文篇名：《论文标题》。作者. 发表期刊，发�...
+I'm ignoring this; it doesn't match any \if.
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21: Extra \fi.
+\bibliography ...ata {\zap@space #1 \@empty }}\fi 
+                                                  \@input@ {\jobname .bbl}
+l.21   \item
+             中文篇名：《论文标题》。作者. 发表期刊，发�...
+I'm ignoring this; it doesn't match any \if.
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21: Extra \fi.
+\bibliography ...ata {\zap@space #1 \@empty }}\fi 
+                                                  \@input@ {\jobname .bbl}
+l.21   \item
+             中文篇名：《论文标题》。作者. 发表期刊，发�...
+I'm ignoring this; it doesn't match any \if.
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21: Extra \fi.
+\bibliography ...ata {\zap@space #1 \@empty }}\fi 
+                                                  \@input@ {\jobname .bbl}
+l.21   \item
+             中文篇名：《论文标题》。作者. 发表期刊，发�...
+I'm ignoring this; it doesn't match any \if.
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21: Extra \fi.
+\bibliography ...ata {\zap@space #1 \@empty }}\fi 
+                                                  \@input@ {\jobname .bbl}
+l.21   \item
+             中文篇名：《论文标题》。作者. 发表期刊，发�...
+I'm ignoring this; it doesn't match any \if.
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21: Extra \fi.
+\bibliography ...ata {\zap@space #1 \@empty }}\fi 
+                                                  \@input@ {\jobname .bbl}
+l.21   \item
+             中文篇名：《论文标题》。作者. 发表期刊，发�...
+I'm ignoring this; it doesn't match any \if.
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21: Extra \fi.
+\bibliography ...ata {\zap@space #1 \@empty }}\fi 
+                                                  \@input@ {\jobname .bbl}
+l.21   \item
+             中文篇名：《论文标题》。作者. 发表期刊，发�...
+I'm ignoring this; it doesn't match any \if.
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21: Extra \fi.
+\bibliography ...ata {\zap@space #1 \@empty }}\fi 
+                                                  \@input@ {\jobname .bbl}
+l.21   \item
+             中文篇名：《论文标题》。作者. 发表期刊，发�...
+I'm ignoring this; it doesn't match any \if.
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21: Extra \fi.
+\bibliography ...ata {\zap@space #1 \@empty }}\fi 
+                                                  \@input@ {\jobname .bbl}
+l.21   \item
+             中文篇名：《论文标题》。作者. 发表期刊，发�...
+I'm ignoring this; it doesn't match any \if.
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21: Extra \fi.
+\bibliography ...ata {\zap@space #1 \@empty }}\fi 
+                                                  \@input@ {\jobname .bbl}
+l.21   \item
+             中文篇名：《论文标题》。作者. 发表期刊，发�...
+I'm ignoring this; it doesn't match any \if.
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21: Extra \fi.
+\bibliography ...ata {\zap@space #1 \@empty }}\fi 
+                                                  \@input@ {\jobname .bbl}
+l.21   \item
+             中文篇名：《论文标题》。作者. 发表期刊，发�...
+I'm ignoring this; it doesn't match any \if.
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21: Extra \fi.
+\bibliography ...ata {\zap@space #1 \@empty }}\fi 
+                                                  \@input@ {\jobname .bbl}
+l.21   \item
+             中文篇名：《论文标题》。作者. 发表期刊，发�...
+I'm ignoring this; it doesn't match any \if.
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21: Extra \fi.
+\bibliography ...ata {\zap@space #1 \@empty }}\fi 
+                                                  \@input@ {\jobname .bbl}
+l.21   \item
+             中文篇名：《论文标题》。作者. 发表期刊，发�...
+I'm ignoring this; it doesn't match any \if.
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21: Extra \fi.
+\bibliography ...ata {\zap@space #1 \@empty }}\fi 
+                                                  \@input@ {\jobname .bbl}
+l.21   \item
+             中文篇名：《论文标题》。作者. 发表期刊，发�...
+I'm ignoring this; it doesn't match any \if.
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21: Extra \fi.
+\bibliography ...ata {\zap@space #1 \@empty }}\fi 
+                                                  \@input@ {\jobname .bbl}
+l.21   \item
+             中文篇名：《论文标题》。作者. 发表期刊，发�...
+I'm ignoring this; it doesn't match any \if.
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21: Extra \fi.
+\bibliography ...ata {\zap@space #1 \@empty }}\fi 
+                                                  \@input@ {\jobname .bbl}
+l.21   \item
+             中文篇名：《论文标题》。作者. 发表期刊，发�...
+I'm ignoring this; it doesn't match any \if.
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21: Extra \fi.
+\bibliography ...ata {\zap@space #1 \@empty }}\fi 
+                                                  \@input@ {\jobname .bbl}
+l.21   \item
+             中文篇名：《论文标题》。作者. 发表期刊，发�...
+I'm ignoring this; it doesn't match any \if.
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21: Extra \fi.
+\bibliography ...ata {\zap@space #1 \@empty }}\fi 
+                                                  \@input@ {\jobname .bbl}
+l.21   \item
+             中文篇名：《论文标题》。作者. 发表期刊，发�...
+I'm ignoring this; it doesn't match any \if.
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21: Extra \fi.
+\bibliography ...ata {\zap@space #1 \@empty }}\fi 
+                                                  \@input@ {\jobname .bbl}
+l.21   \item
+             中文篇名：《论文标题》。作者. 发表期刊，发�...
+I'm ignoring this; it doesn't match any \if.
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21: Extra \fi.
+\bibliography ...ata {\zap@space #1 \@empty }}\fi 
+                                                  \@input@ {\jobname .bbl}
+l.21   \item
+             中文篇名：《论文标题》。作者. 发表期刊，发�...
+I'm ignoring this; it doesn't match any \if.
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21: Extra \fi.
+\bibliography ...ata {\zap@space #1 \@empty }}\fi 
+                                                  \@input@ {\jobname .bbl}
+l.21   \item
+             中文篇名：《论文标题》。作者. 发表期刊，发�...
+I'm ignoring this; it doesn't match any \if.
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21: Extra \fi.
+\bibliography ...ata {\zap@space #1 \@empty }}\fi 
+                                                  \@input@ {\jobname .bbl}
+l.21   \item
+             中文篇名：《论文标题》。作者. 发表期刊，发�...
+I'm ignoring this; it doesn't match any \if.
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21: Extra \fi.
+\bibliography ...ata {\zap@space #1 \@empty }}\fi 
+                                                  \@input@ {\jobname .bbl}
+l.21   \item
+             中文篇名：《论文标题》。作者. 发表期刊，发�...
+I'm ignoring this; it doesn't match any \if.
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21: Extra \fi.
+\bibliography ...ata {\zap@space #1 \@empty }}\fi 
+                                                  \@input@ {\jobname .bbl}
+l.21   \item
+             中文篇名：《论文标题》。作者. 发表期刊，发�...
+I'm ignoring this; it doesn't match any \if.
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21: Extra \fi.
+\bibliography ...ata {\zap@space #1 \@empty }}\fi 
+                                                  \@input@ {\jobname .bbl}
+l.21   \item
+             中文篇名：《论文标题》。作者. 发表期刊，发�...
+I'm ignoring this; it doesn't match any \if.
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21: Extra \fi.
+\bibliography ...ata {\zap@space #1 \@empty }}\fi 
+                                                  \@input@ {\jobname .bbl}
+l.21   \item
+             中文篇名：《论文标题》。作者. 发表期刊，发�...
+I'm ignoring this; it doesn't match any \if.
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21: Extra \fi.
+\bibliography ...ata {\zap@space #1 \@empty }}\fi 
+                                                  \@input@ {\jobname .bbl}
+l.21   \item
+             中文篇名：《论文标题》。作者. 发表期刊，发�...
+I'm ignoring this; it doesn't match any \if.
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21: Extra \fi.
+\bibliography ...ata {\zap@space #1 \@empty }}\fi 
+                                                  \@input@ {\jobname .bbl}
+l.21   \item
+             中文篇名：《论文标题》。作者. 发表期刊，发�...
+I'm ignoring this; it doesn't match any \if.
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21: Extra \fi.
+\bibliography ...ata {\zap@space #1 \@empty }}\fi 
+                                                  \@input@ {\jobname .bbl}
+l.21   \item
+             中文篇名：《论文标题》。作者. 发表期刊，发�...
+I'm ignoring this; it doesn't match any \if.
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21: Extra \fi.
+\bibliography ...ata {\zap@space #1 \@empty }}\fi 
+                                                  \@input@ {\jobname .bbl}
+l.21   \item
+             中文篇名：《论文标题》。作者. 发表期刊，发�...
+I'm ignoring this; it doesn't match any \if.
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21: Extra \fi.
+\bibliography ...ata {\zap@space #1 \@empty }}\fi 
+                                                  \@input@ {\jobname .bbl}
+l.21   \item
+             中文篇名：《论文标题》。作者. 发表期刊，发�...
+I'm ignoring this; it doesn't match any \if.
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21: Extra \fi.
+\bibliography ...ata {\zap@space #1 \@empty }}\fi 
+                                                  \@input@ {\jobname .bbl}
+l.21   \item
+             中文篇名：《论文标题》。作者. 发表期刊，发�...
+I'm ignoring this; it doesn't match any \if.
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21: Extra \fi.
+\bibliography ...ata {\zap@space #1 \@empty }}\fi 
+                                                  \@input@ {\jobname .bbl}
+l.21   \item
+             中文篇名：《论文标题》。作者. 发表期刊，发�...
+I'm ignoring this; it doesn't match any \if.
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21: Extra \fi.
+\bibliography ...ata {\zap@space #1 \@empty }}\fi 
+                                                  \@input@ {\jobname .bbl}
+l.21   \item
+             中文篇名：《论文标题》。作者. 发表期刊，发�...
+I'm ignoring this; it doesn't match any \if.
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21: Extra \fi.
+\bibliography ...ata {\zap@space #1 \@empty }}\fi 
+                                                  \@input@ {\jobname .bbl}
+l.21   \item
+             中文篇名：《论文标题》。作者. 发表期刊，发�...
+I'm ignoring this; it doesn't match any \if.
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21: Extra \fi.
+\bibliography ...ata {\zap@space #1 \@empty }}\fi 
+                                                  \@input@ {\jobname .bbl}
+l.21   \item
+             中文篇名：《论文标题》。作者. 发表期刊，发�...
+I'm ignoring this; it doesn't match any \if.
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21: Extra \fi.
+\bibliography ...ata {\zap@space #1 \@empty }}\fi 
+                                                  \@input@ {\jobname .bbl}
+l.21   \item
+             中文篇名：《论文标题》。作者. 发表期刊，发�...
+I'm ignoring this; it doesn't match any \if.
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21: Extra \fi.
+\bibliography ...ata {\zap@space #1 \@empty }}\fi 
+                                                  \@input@ {\jobname .bbl}
+l.21   \item
+             中文篇名：《论文标题》。作者. 发表期刊，发�...
+I'm ignoring this; it doesn't match any \if.
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21: Extra \fi.
+\bibliography ...ata {\zap@space #1 \@empty }}\fi 
+                                                  \@input@ {\jobname .bbl}
+l.21   \item
+             中文篇名：《论文标题》。作者. 发表期刊，发�...
+I'm ignoring this; it doesn't match any \if.
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21: Extra \fi.
+\bibliography ...ata {\zap@space #1 \@empty }}\fi 
+                                                  \@input@ {\jobname .bbl}
+l.21   \item
+             中文篇名：《论文标题》。作者. 发表期刊，发�...
+I'm ignoring this; it doesn't match any \if.
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21: Extra \fi.
+\bibliography ...ata {\zap@space #1 \@empty }}\fi 
+                                                  \@input@ {\jobname .bbl}
+l.21   \item
+             中文篇名：《论文标题》。作者. 发表期刊，发�...
+I'm ignoring this; it doesn't match any \if.
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21: Extra \fi.
+\bibliography ...ata {\zap@space #1 \@empty }}\fi 
+                                                  \@input@ {\jobname .bbl}
+l.21   \item
+             中文篇名：《论文标题》。作者. 发表期刊，发�...
+I'm ignoring this; it doesn't match any \if.
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21: Extra \fi.
+\bibliography ...ata {\zap@space #1 \@empty }}\fi 
+                                                  \@input@ {\jobname .bbl}
+l.21   \item
+             中文篇名：《论文标题》。作者. 发表期刊，发�...
+I'm ignoring this; it doesn't match any \if.
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21: Extra \fi.
+\bibliography ...ata {\zap@space #1 \@empty }}\fi 
+                                                  \@input@ {\jobname .bbl}
+l.21   \item
+             中文篇名：《论文标题》。作者. 发表期刊，发�...
+I'm ignoring this; it doesn't match any \if.
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21: Extra \fi.
+\bibliography ...ata {\zap@space #1 \@empty }}\fi 
+                                                  \@input@ {\jobname .bbl}
+l.21   \item
+             中文篇名：《论文标题》。作者. 发表期刊，发�...
+I'm ignoring this; it doesn't match any \if.
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21: Extra \fi.
+\bibliography ...ata {\zap@space #1 \@empty }}\fi 
+                                                  \@input@ {\jobname .bbl}
+l.21   \item
+             中文篇名：《论文标题》。作者. 发表期刊，发�...
+I'm ignoring this; it doesn't match any \if.
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21: Extra \fi.
+\bibliography ...ata {\zap@space #1 \@empty }}\fi 
+                                                  \@input@ {\jobname .bbl}
+l.21   \item
+             中文篇名：《论文标题》。作者. 发表期刊，发�...
+I'm ignoring this; it doesn't match any \if.
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21: Extra \fi.
+\bibliography ...ata {\zap@space #1 \@empty }}\fi 
+                                                  \@input@ {\jobname .bbl}
+l.21   \item
+             中文篇名：《论文标题》。作者. 发表期刊，发�...
+I'm ignoring this; it doesn't match any \if.
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21: Extra \fi.
+\bibliography ...ata {\zap@space #1 \@empty }}\fi 
+                                                  \@input@ {\jobname .bbl}
+l.21   \item
+             中文篇名：《论文标题》。作者. 发表期刊，发�...
+I'm ignoring this; it doesn't match any \if.
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21: Extra \fi.
+\bibliography ...ata {\zap@space #1 \@empty }}\fi 
+                                                  \@input@ {\jobname .bbl}
+l.21   \item
+             中文篇名：《论文标题》。作者. 发表期刊，发�...
+I'm ignoring this; it doesn't match any \if.
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21: Extra \fi.
+\bibliography ...ata {\zap@space #1 \@empty }}\fi 
+                                                  \@input@ {\jobname .bbl}
+l.21   \item
+             中文篇名：《论文标题》。作者. 发表期刊，发�...
+I'm ignoring this; it doesn't match any \if.
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21: Extra \fi.
+\bibliography ...ata {\zap@space #1 \@empty }}\fi 
+                                                  \@input@ {\jobname .bbl}
+l.21   \item
+             中文篇名：《论文标题》。作者. 发表期刊，发�...
+I'm ignoring this; it doesn't match any \if.
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21: Extra \fi.
+\bibliography ...ata {\zap@space #1 \@empty }}\fi 
+                                                  \@input@ {\jobname .bbl}
+l.21   \item
+             中文篇名：《论文标题》。作者. 发表期刊，发�...
+I'm ignoring this; it doesn't match any \if.
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21: Extra \fi.
+\bibliography ...ata {\zap@space #1 \@empty }}\fi 
+                                                  \@input@ {\jobname .bbl}
+l.21   \item
+             中文篇名：《论文标题》。作者. 发表期刊，发�...
+I'm ignoring this; it doesn't match any \if.
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21: Extra \fi.
+\bibliography ...ata {\zap@space #1 \@empty }}\fi 
+                                                  \@input@ {\jobname .bbl}
+l.21   \item
+             中文篇名：《论文标题》。作者. 发表期刊，发�...
+I'm ignoring this; it doesn't match any \if.
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21: Extra \fi.
+\bibliography ...ata {\zap@space #1 \@empty }}\fi 
+                                                  \@input@ {\jobname .bbl}
+l.21   \item
+             中文篇名：《论文标题》。作者. 发表期刊，发�...
+I'm ignoring this; it doesn't match any \if.
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21: Extra \fi.
+\bibliography ...ata {\zap@space #1 \@empty }}\fi 
+                                                  \@input@ {\jobname .bbl}
+l.21   \item
+             中文篇名：《论文标题》。作者. 发表期刊，发�...
+I'm ignoring this; it doesn't match any \if.
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21: Extra \fi.
+\bibliography ...ata {\zap@space #1 \@empty }}\fi 
+                                                  \@input@ {\jobname .bbl}
+l.21   \item
+             中文篇名：《论文标题》。作者. 发表期刊，发�...
+I'm ignoring this; it doesn't match any \if.
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21: Extra \fi.
+\bibliography ...ata {\zap@space #1 \@empty }}\fi 
+                                                  \@input@ {\jobname .bbl}
+l.21   \item
+             中文篇名：《论文标题》。作者. 发表期刊，发�...
+(That makes 100 errors; please try again.) 
+Here is how much of TeX's memory you used:
+ 5291 strings out of 474116
+ 107365 string characters out of 5747716
+ 1925190 words of memory out of 5000000
+ 27622 multiletter control sequences out of 15000+600000
+ 560017 words of font info for 40 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 599i,0n,797p,744b,348s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+d:/forStudy/article/ShuFenShiJian/test.tex:21:  ==> Fatal error occurred, no output PDF file produced!
